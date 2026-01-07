@@ -2,6 +2,12 @@
 
 A front-end only Point of Sale (POS) MVP demonstration application built with React, TypeScript, and Vite. This demo showcases a complete POS workflow end-to-end: **catalog → cart → checkout → receipt → returns → shift/day close → reports**.
 
+## 🌐 Live Demo
+
+**👉 [View Live Application](https://pos-mvp-demo.netlify.app)**
+
+The application is deployed and ready to use! Try it out with the demo credentials below.
+
 ## General Requirements
 
 - **App name**: "POS MVP Demo"
@@ -57,6 +63,11 @@ A front-end only Point of Sale (POS) MVP demonstration application built with Re
    ```
 
 The application will be available at `http://localhost:5173` (or the port shown in your terminal).
+
+### Live Production Deployment
+
+The application is also deployed on Netlify and available at:
+- **Production URL**: [https://pos-mvp-demo.netlify.app](https://pos-mvp-demo.netlify.app)
 
 ## Project Structure
 
